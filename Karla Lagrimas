@@ -1,0 +1,28 @@
+LearnMate
+1.	Aim
+LearnMate mobile and web application provide remote areas and underprivileged children with free of cost video lessons, quizzes and personalized mentorship so they can learn at their own pace and for no fee.
+How it Helps?
+By turning knowledge into a game LearnMate makes it fun and entertaining for students from all walks of life thereby assisting in the achievement of SDG 4 (Quality Education) and SDG 10 (Reduced Inequalities) Goals.
+Key SDGs Targeted
+✔ SDG 4: Quality Education: Improving the learning experience for students around the world.
+✔ SDG 10 – Reduced Inequalities: Pakistani education policies are helping poor and remote students get a good education.
+
+Key Features
+📚 Free Video Lessons – Math, Science, and English.
+📖 Practice Quizzes — Fun tests that allow students to check their understanding.
+👩‍🏫 Live Mentorship – Students receive guidance from teachers or experts.
+🌍 Language Support – DIFFERENT LANGUAGES to learn easily.
+📥 Offline – Lessons can be downloaded for study without the internet.
+Simple Technical Setup
+1️⃣ Mobile & Web App – Built with very simple tech stack like React Native (for your mobile app) and React. js (for web).
+2️⃣ Cloud Storage– Lessons & videos on Google Cloud or AWS to make them easily accessible
+3️⃣ Database – Firebase serves to save user progress and history of learning.
+▓ Offline Mode — A Progressive Web App (PWA) so students can learn without the internet.
+
+Research and Evidence
+📌UNESCO (2023) – Quality education is out of reach for millions of children.
+Source: World Economic Forum (2022) – Digital learning is
+Research and Evidence
+📌UNESCO（2023） – Millions of children are out of reach of quality education.
+📌 The World Economic Forum (2022) — Digital learning is the future of education.
+📌 UNICEF (2023) – EdTech solutions have the potential to better tackle educational inequality.
